@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning machine learning techniques.
 - 📫 How to reach me: email: bsdcc2422@isical.ac.in
 - 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I am stupidly introverted......review by a friend.
 
 <!---
 Sujit0802/Sujit0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
