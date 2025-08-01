@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sujit Kumar Nayak
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning techniques.
-- 📫 How to reach me: email: bsdcc2422@isical.ac.in
-- 😄 Pronouns: He/ Him
+-👋 Hi, I'm Sujit Kumar Nayak
+
+-🎓 Undergraduate student at ISI Kolkata (BSDS)  
+-📊 Passionate about data science, trading strategies & statistical modeling  
+-🔍 Currently learning: Machine Learning, Pandas, SQL  
+-📫 Reach me at: bsdcc2422@isical.ac.in
 
 <!---
 Sujit0802/Sujit0802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
