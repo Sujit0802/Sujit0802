@@ -2,7 +2,7 @@
 
 -🎓 Undergraduate student at ISI Kolkata (BSDS)  
 -📊 Passionate about data science, trading strategies & statistical modeling  
--🔍 Currently learning: Machine Learning, Pandas, SQL  
+-🔍 Currently learning: DSA, ML, SQL  
 -📫 Reach me at: bsdcc2422@isical.ac.in
 
 <!---
